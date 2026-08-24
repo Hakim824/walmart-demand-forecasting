@@ -1,0 +1,12 @@
+{
+  "store": "CA_1",
+  "category": "FOODS",
+  "model": "XGBoost",
+  "avg_daily_demand": 3040.458984375,
+  "demand_error_std": 200.8650483926711,
+  "lead_time_days": 7,
+  "service_level": 0.95,
+  "safety_stock": 876.8742924677373,
+  "reorder_point": 22160.08718309274,
+  "eoq": 12871.033203125
+}
