@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning pipeline and interactive web dashboard built to forecast daily demand and optimize inventory replenishment for Walmart stores.
 
----
+![Walmart Supply Chain Dashboard](Screenshot 2026-08-26 005126.png)
 
 ## 🎯 Key Features
 * **Time-Series Forecasting:** Evaluates XGBoost, LightGBM, SARIMA, Prophet, and Naive baselines for accurate daily sales predictions.
