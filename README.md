@@ -1,4 +1,7 @@
- M5 Walmart Demand Forecasting & Supply Chain Dashboard
+
+ Walmart Demand Forecasting & Inventory Optimization Dashboard
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://walmart-demand-forecasting-lk7o9sxvhlkszx3gsfx2jv.streamlit.app/) 🔗 **[ Click Here to Launch Live Interactive App](https://walmart-demand-forecasting-lk7o9sxvhlkszx3gsfx2jv.streamlit.app/)**
 
 An end-to-end Machine Learning pipeline and interactive web dashboard built to forecast daily demand and optimize inventory replenishment for Walmart stores.
 
